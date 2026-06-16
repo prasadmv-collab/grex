@@ -13,7 +13,7 @@ stages{
 	stage('Checkout')
 	{
 	steps{
-	git branch:'main',url:'https://github.com/akashsuresh2005/gradleExternal.git'
+	git branch:'main',url:'https://github.com/prasadmv-collab/grex.git'
 	}
 	}
 	
